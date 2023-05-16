@@ -7,6 +7,29 @@
   pointer-events: none;
 }
 
+.addTaskCard{
+  margin: 3% auto;
+}
+
+.addTaskCard button{
+  margin: 5% auto;
+}
+
+.listTaskCard{
+  margin: 0 4%;
+}
+
+.toDo{
+  margin: 2% 20%;
+  padding: 1% 0;
+  border-radius: 15px;
+}
+
+.toDo button{
+
+  margin: 0.5% 1.5%;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
